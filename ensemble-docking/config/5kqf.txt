@@ -1,4 +1,4 @@
-receptor = 5kqf_clean.pdbqt
+receptor = 5kqf.pdbqt
 #ligand = em.pdbqt
 
 center_x = 17
