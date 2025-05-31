@@ -1,4 +1,4 @@
-receptor = 4zpe_clean.pdbqt
+receptor = 4zpe.pdbqt
 #ligand = em.pdbqt
 
 center_x = 29
