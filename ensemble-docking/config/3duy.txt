@@ -1,4 +1,4 @@
-receptor = 3duy_clean.pdbqt
+receptor = 3duy.pdbqt
 #ligand = em.pdbqt
 
 center_x = 29
