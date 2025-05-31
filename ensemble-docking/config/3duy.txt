@@ -1,0 +1,16 @@
+receptor = 3duy_clean.pdbqt
+#ligand = em.pdbqt
+
+center_x = 29
+center_y = 7
+center_z = 14
+
+size_x = 15
+size_y = 13
+size_z = 16
+
+energy_range = 4
+exhaustiveness = 8
+num_modes = 10
+# spacing = 1
+seed = 42

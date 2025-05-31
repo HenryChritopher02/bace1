@@ -1,0 +1,16 @@
+receptor = 6bfw_clean.pdbqt
+#ligand = em.pdbqt
+
+center_x = 11
+center_y = -3
+center_z = 0
+
+size_x = 15
+size_y = 20
+size_z = 13
+
+energy_range = 4
+exhaustiveness = 8
+num_modes = 10
+# spacing = 1
+seed = 42

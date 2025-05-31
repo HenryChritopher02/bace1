@@ -1,0 +1,16 @@
+receptor = 4jpe_clean.pdbqt
+#ligand = em.pdbqt
+
+center_x = 23
+center_y = 16
+center_z = 7
+
+size_x = 15
+size_y = 13
+size_z = 15
+
+energy_range = 4
+exhaustiveness = 8
+num_modes = 10
+# spacing = 1
+seed = 42
