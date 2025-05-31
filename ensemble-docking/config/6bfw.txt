@@ -1,4 +1,4 @@
-receptor = 6bfw_clean.pdbqt
+receptor = 6bfw.pdbqt
 #ligand = em.pdbqt
 
 center_x = 11
