@@ -1,4 +1,4 @@
-receptor = 3ine_clean.pdbqt
+receptor = 3ine.pdbqt
 #ligand = em.pdbqt
 
 center_x = 15
