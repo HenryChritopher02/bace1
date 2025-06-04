@@ -1,0 +1,16 @@
+receptor = 3ooz.pdbqt
+#ligand = 3ooz_ligand.pdbqt
+
+center_x = 15
+center_y = -7
+center_z = 15
+
+size_x = 15
+size_y = 15
+size_z = 13
+
+energy_range = 4
+exhaustiveness = 8
+num_modes = 10
+spacing = 1
+seed = 42
